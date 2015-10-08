@@ -1,4 +1,4 @@
 # GitCLD
 The first git
 
-I am Claude. :coffee :pizza
+I am Claude. :coffee: :pizza:
